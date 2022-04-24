@@ -14,25 +14,33 @@
   </tr>
  </table>
 
-$~$
+<br>
 
 ## Results:
 ### Ride-Sharing Data among City Types:
 - Urban
     - asdf
 
-$~$
+<br>
 
 - Suburban
     - asdf
 
-$~$
+<br>
 
 - Rural
     - asdf
 
-$~$
-![PyBer Fare per City Type Summary](https://github.com/pminor87/PyBer_Analysis/blob/main/analysis/PyBer_fare_per_city_type_summary.png)
-$~$
+<br>
+<table>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="analysis/PyBer_fare_per_city_type_summary.png" width= height=></td>
+
+  </tr>
+ </table>
+<br>
 
 ## Summary:
