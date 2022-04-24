@@ -6,7 +6,7 @@
 - Next we formatted the data and put it into a new dataframe:
 <table>
   <tr>
-    <td></td>
+    <td>Pyber Summary DataFrame</td>
   </tr>
   <tr>
     <td><img src="Resources/Pyber Summary DataFrame.PNG" width= height=></td>
