@@ -5,7 +5,7 @@
 - The fist step was to use the groupby() function to find the count of riders, sum of drivers, and sum of the fares to be able to calculate the average fare by rides and drivers.
 - Next we formatted the data and put it into a new dataframe:
 
-<img width="629" alt="https://github.com/pminor87/PyBer_Analysis/blob/main/Resources/Pyber%20Summary%20DataFrame.PNG">
+<img width="600" src="Resources/Pyber Summary DataFrame.PNG" align="center">
 
 
 <br>
