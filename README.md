@@ -40,6 +40,8 @@
   </tr>
  </table>
 
+ <img width="629" src="https://github.com/pminor87/PyBer_Analysis/blob/main/analysis/PyBer_fare_per_city_type_summary.png">
+
 <br>
 
 ## Summary:
