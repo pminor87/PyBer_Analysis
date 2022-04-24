@@ -9,7 +9,15 @@
     <img width="100%" src="Resources/Pyber Summary DataFrame.PNG">
 </p>
 
+<table>
+  <tr>
+    <td>Pyber Summary DataFrame</td>
+  </tr>
+  <tr>
+    <td><img src="Resources/Pyber Summary DataFrame.PNG" align="center" width= height=></td>
 
+  </tr>
+ </table>
 
 <br>
 
