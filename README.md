@@ -33,17 +33,12 @@
     - asdf
 
 <br>
-<table>
 
+<table>
   <tr>
     <td><img src="analysis/PyBer_fare_per_city_type_summary.png" width= height=></td>
-
   </tr>
  </table>
-
-<p align="center" width="100%">
-    <img width="100%" src="analysis/PyBer_fare_per_city_type_summary.png">
-</p>
 
 <br>
 
